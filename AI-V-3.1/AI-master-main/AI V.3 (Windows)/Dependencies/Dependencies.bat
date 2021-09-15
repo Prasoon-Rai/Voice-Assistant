@@ -22,6 +22,7 @@ pip install smtplib
 pip install wolframalpha
 pip install wikipedia
 pip install time
+pip install tk
 pip install random
 pip install speechrecognition
 pip install PyAudio-0.2.11-cp38-cp38-win_amd64
