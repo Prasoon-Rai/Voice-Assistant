@@ -254,7 +254,7 @@ def Open():
             webbrowser.open('www.google.co.in')
 
         elif "hello" in query or "hi" in query or "hello" in query or "hi" in query:
-            greet = "Hello there. 😁😎😍"
+            greet = "Hello there."
             speak(greet)
 
         elif 'your help' in query or "help" in query:
