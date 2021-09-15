@@ -47,7 +47,6 @@ COLOR 	0F
 @echo -
 @echo Installation completed !!!
 @echo -
-@echo Info --> Total space used - 1.2 GB
 @echo -
 @echo Thanks! Now you can enjoy and if you encounter any error please visit - https://pypi.org
 @echo -
