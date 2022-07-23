@@ -1,4 +1,4 @@
-print ("Python AI Loading ...")
+print ("Python Assistant Loading ...")
 print('-----------------------------------------------------------------------')
 import os
 clear = lambda: os.system("cls")
