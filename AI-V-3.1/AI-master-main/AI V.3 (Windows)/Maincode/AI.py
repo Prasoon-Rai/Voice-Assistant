@@ -132,7 +132,7 @@ print("""
 Conversation =>
 """)
 
-print("Hello from {PythonTech} AI community. " + "https://areno-dev.github.io/arenodev/")
+print("Hello from AI community. " + "areno.vercel.app")
 #######################################################################################################
 # HEY THERE YOU CAN SPECIFY THE AI , YOUR NAME IN THE FOLLOWING SECTION!
 #######################################################################################################
